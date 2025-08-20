@@ -27,25 +27,22 @@ I'm passionate about **data science**, **machine learning**, and building things
 ## 🧠 Projects / 项目展示
 
 Here you'll find some of my favorite projects, including:
-- A [sentiment analysis paper](https://example.com) using CNN & LSTM (SPIoT 2024)
 - Kaggle notebooks for tabular prediction & visualization
 - Exploratory dashboards and EDA reports for real-world datasets
+- To be continued...
 
 你会在这里看到我的一些项目，比如：
-- 基于 CNN 和 LSTM 的情感分析论文（发表于 SPIoT 2024）
 - Kaggle 竞赛作品，包括结构化数据预测与可视化
 - 针对真实数据集的探索性分析与可视化报告
-
+- 未完待续...
+  
 ---
 
 ## 🤝 Let's Connect / 保持联系
 
 - 💌 Email: dcying11@gmail.com
 
-欢迎联系我交流数据科学、职业规划，或者一起做项目呀！
+欢迎联系我交流数据科学、科技、商业，或者你觉得有趣的一切！
 
----
 
-> “Stay curious, keep learning, and build things that matter.”  
-> “保持好奇，持续学习，做些真正有意义的事。”
 
